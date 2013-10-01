@@ -1,0 +1,1 @@
+Those directories under /Zend are extracted from Zend Framework version 1.12.3
